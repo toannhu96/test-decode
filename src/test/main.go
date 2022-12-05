@@ -40,7 +40,7 @@ func (de *JsonDecoded) FromStruct(item *teltonikaparser.Decoded) (*JsonDecoded, 
 
 type JsonDecodeAvlData struct {
 	UtimeMs     uint64                    `json:"UtimeMs"`  // Utime in mili seconds
-	Utime       uint64                    `json:"Utim"`     // Utime in seconds
+	Utime       uint64                    `json:"Utime"`    // Utime in seconds
 	Priority    uint8                     `json:"Priority"` // Priority, 	[0	Low, 1	High, 2	Panic]
 	Lat         int32                     `json:"Lat"`      // Latitude (between 850000000 and -850000000), fit int32
 	Lng         int32                     `json:"Lng"`      // Longitude (between 1800000000 and -1800000000), fit int32
