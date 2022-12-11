@@ -144,7 +144,7 @@ func main() {
 	fmt.Println(data)
 
 	// write json data to file
-	folderPath := "./data"
+	folderPath := "./" // change this to any folder you want
 	err = WriteJsonFile(transformEntity, fmt.Sprintf("%s/%s-%d.json", folderPath, transformEntity.IMEI, transformEntity.NoOfData))
 	if err != nil {
 		log.Panicf("error when write to json file, %v\n", err)
