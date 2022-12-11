@@ -81,6 +81,7 @@ func (d *JsonDecodeAvlData) FromStruct(item *teltonikaparser.AvlData) (*JsonDeco
 }
 
 type FinalValue struct {
+	IOID  uint16      `json:"IOID"`
 	Name  string      `json:"Name"`
 	Value interface{} `json:"Value"`
 }
@@ -143,7 +144,8 @@ func main() {
 	fmt.Println(data)
 
 	// write json data to file
-	err = WriteJsonFile(transformEntity, fmt.Sprintf("%s-%d.json", transformEntity.IMEI, transformEntity.NoOfData))
+	folderPath := "./data"
+	err = WriteJsonFile(transformEntity, fmt.Sprintf("%s/%s-%d.json", folderPath, transformEntity.IMEI, transformEntity.NoOfData))
 	if err != nil {
 		log.Panicf("error when write to json file, %v\n", err)
 	}
