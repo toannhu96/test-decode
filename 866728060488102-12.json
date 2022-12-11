@@ -1,0 +1,896 @@
+{
+	"IMEI": "866728060488102",
+	"CodecID": 142,
+	"NoOfData": 12,
+	"Data": [
+		{
+			"UtimeMs": 1665667228597,
+			"Utime": 1665667228,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": -3,
+			"Angle": 0,
+			"VisSat": 10,
+			"Speed": 0,
+			"EventID": 0,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 5
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9754
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 8
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12250
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665666928578,
+			"Utime": 1665666928,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": -9,
+			"Angle": 0,
+			"VisSat": 11,
+			"Speed": 0,
+			"EventID": 0,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 5
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9762
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 8
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12256
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665666628562,
+			"Utime": 1665666628,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": 21,
+			"Angle": 0,
+			"VisSat": 11,
+			"Speed": 0,
+			"EventID": 0,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 4
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9760
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 8
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12207
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665666328542,
+			"Utime": 1665666328,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": 36,
+			"Angle": 0,
+			"VisSat": 10,
+			"Speed": 0,
+			"EventID": 0,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 4
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9758
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 10
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12263
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665666028527,
+			"Utime": 1665666028,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": 29,
+			"Angle": 0,
+			"VisSat": 10,
+			"Speed": 0,
+			"EventID": 0,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 5
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9753
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 8
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12233
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665665728511,
+			"Utime": 1665665728,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": 30,
+			"Angle": 0,
+			"VisSat": 9,
+			"Speed": 0,
+			"EventID": 0,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 4
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9749
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 8
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12189
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665665428492,
+			"Utime": 1665665428,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": 30,
+			"Angle": 0,
+			"VisSat": 9,
+			"Speed": 0,
+			"EventID": 0,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 4
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9750
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 10
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12258
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665665128476,
+			"Utime": 1665665128,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": 28,
+			"Angle": 0,
+			"VisSat": 9,
+			"Speed": 0,
+			"EventID": 0,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 4
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9748
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 10
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12258
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665664828460,
+			"Utime": 1665664828,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": 25,
+			"Angle": 0,
+			"VisSat": 10,
+			"Speed": 0,
+			"EventID": 0,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 4
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9742
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 8
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12206
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665664528441,
+			"Utime": 1665664528,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": 26,
+			"Angle": 0,
+			"VisSat": 10,
+			"Speed": 0,
+			"EventID": 0,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 4
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9737
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 13
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12320
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665664250320,
+			"Utime": 1665664250,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": 26,
+			"Angle": 0,
+			"VisSat": 10,
+			"Speed": 0,
+			"EventID": 239,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 0
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 5
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 0
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9737
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 8
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12271
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		},
+		{
+			"UtimeMs": 1665664249000,
+			"Utime": 1665664249,
+			"Priority": 0,
+			"Lat": 215955040,
+			"Lng": 391924742,
+			"Altitude": 26,
+			"Angle": 0,
+			"VisSat": 9,
+			"Speed": 0,
+			"EventID": 240,
+			"Elements": [
+				{
+					"IOID": 22,
+					"Name": "BLE 3 Battery Voltage",
+					"Value": 1
+				},
+				{
+					"IOID": 71,
+					"Name": "Dallas Temperature ID 4",
+					"Value": "\u0003"
+				},
+				{
+					"IOID": 240,
+					"Name": "Movement",
+					"Value": 0
+				},
+				{
+					"IOID": 21,
+					"Name": "GSM Signal",
+					"Value": 5
+				},
+				{
+					"IOID": 200,
+					"Name": "Sleep Mode",
+					"Value": 0
+				},
+				{
+					"IOID": 239,
+					"Name": "Ignition",
+					"Value": 1
+				},
+				{
+					"IOID": 67,
+					"Name": "Battery Voltage",
+					"Value": 9732
+				},
+				{
+					"IOID": 68,
+					"Name": "Battery Current",
+					"Value": 51
+				},
+				{
+					"IOID": 181,
+					"Name": "GNSS PDOP",
+					"Value": 12
+				},
+				{
+					"IOID": 182,
+					"Name": "GNSS HDOP",
+					"Value": 10
+				},
+				{
+					"IOID": 66,
+					"Name": "External Voltage",
+					"Value": 12269
+				},
+				{
+					"IOID": 24,
+					"Name": "Speed",
+					"Value": 0
+				}
+			]
+		}
+	],
+	"Response": "AAXK/gGWDA=="
+}

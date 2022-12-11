@@ -101,6 +101,7 @@ func (v *FinalValue) FromStruct(item *teltonikaparser.Element) (*FinalValue, err
 		v.Name = decoded.AvlEncodeKey.PropertyName
 		v.Value = val
 	}
+	v.IOID = item.IOID
 	return v, nil
 }
 
